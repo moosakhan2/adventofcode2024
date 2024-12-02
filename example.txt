@@ -1,4 +1,0 @@
-This is the first line in the file.
-This is the second line.
-This line is appended to the file.
-Another appended line.
