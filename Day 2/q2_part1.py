@@ -1,6 +1,6 @@
 data = []
 
-print("Enter the data (type 'done' to stop):")
+print("Enter the data (type 'done' to stop) :")
 
 # Read and process input
 while True:
